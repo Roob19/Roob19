@@ -22,7 +22,7 @@ My name is Ruben da Silva and I'm a software engineer currently enrolled in Gene
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roob19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Roob19.visitor-badge&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Roob19.visitor-badge&left_color=blue&right_color=white)
 
 
 <!--
