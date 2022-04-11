@@ -12,11 +12,11 @@ My name is Ruben da Silva and I'm a software engineer currently enrolled in Gene
 
 ⚡ Fun fact: I was pretty good on the trumpet.
 
-[![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roob19)](https://github.com/Roob19/github-readme-stats)
+<!-- [![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roob19)](https://github.com/Roob19/github-readme-stats)
 
 ![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roob19&hide=contribs,prs)
 
-![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roob19&count_private=true)
+![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roob19&count_private=true) -->
 
 ![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roob19&show_icons=true&theme=highcontrast)
 
